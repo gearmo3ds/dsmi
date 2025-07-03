@@ -1,5 +1,11 @@
 Forked to fix build issue in linux
 
+```
+cd linux
+qmake DSMIDIWiFi.pro
+make
+```
+
 iOS version is probably not going to work
 
 ------------
